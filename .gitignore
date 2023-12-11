@@ -1,3 +1,6 @@
 ts_scrapper_env
 product_import*
 *.pyc
+dist
+build
+*.spec
