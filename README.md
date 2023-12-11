@@ -76,4 +76,4 @@ If you are de developper, feel free to contribute to this project.
 
 ## Download executable
 
-[Download here](https://github.com/Digiox/ts_scrapper/suites/18921825956/artifacts/1105183460).
+[Download here](https://github.com/Digiox/ts_scrapper/suites/18922160478/artifacts/1105204923).
