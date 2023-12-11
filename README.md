@@ -73,3 +73,7 @@ If you are de developper, feel free to contribute to this project.
 - Image src
 - Image index (Image position in the images list)
 - Variant Fulfillment Service (Always manual)
+
+## Download executable
+
+[Download here](https://github.com/Digiox/ts_scrapper/suites/18921825956/artifacts/1105183460).
