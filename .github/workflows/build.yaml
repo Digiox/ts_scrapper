@@ -20,7 +20,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Build Executable
-      run: pyinstaller --add-data "src/entry_datas;src/entry_datas" .\scapper.py
+      run: pyinstaller --add-data "src/entry_datasm:src/entry_datas" .\scapper.py
 
     - name: Rename dist Folder
       run: mv dist ts_scrapper
