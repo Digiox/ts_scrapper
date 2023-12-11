@@ -20,7 +20,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Build Executable
-      run: pyinstaller --add-data "src/entry_datas;src/entry_datas" scapper.py
+      run: pyinstaller --add-data "src/entry_datas;src/entry_datas" scrapper.py
       # Notez que sous Windows, le séparateur dans --add-data est un point-virgule
 
     - name: Rename dist Folder
