@@ -26,5 +26,5 @@ jobs:
     - name: Upload Renamed dist Folder
       uses: actions/upload-artifact@v2
       with:
-        name: ts_scrapper
-        path: dist/
+        name: dist
+        path: ts_scrapper/
