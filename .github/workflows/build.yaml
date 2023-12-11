@@ -24,7 +24,7 @@ jobs:
       # Notez que sous Windows, le séparateur dans --add-data est un point-virgule
 
     - name: Rename dist Folder
-      run: Rename dist ts_scrapper
+      run: Rename-Item -Path dist -NewName ts_scrapper
 
     - name: Upload Renamed dist Folder
       uses: actions/upload-artifact@v2
